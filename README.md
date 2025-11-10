@@ -1,0 +1,2 @@
+# f.fetch
+ricing fastfetch
