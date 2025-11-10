@@ -11,7 +11,9 @@ Only 2 configs are available planning to add more in the future
 ----
     Screenshots
 
-![sceenshot](/images/latte-mocha.png)
+![sceenshot](/screenshots/main.png)   
+
+![sceenshot](/screenshots/null.png)
 
 
 
