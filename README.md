@@ -6,7 +6,7 @@ My personal configs to rice fastfecth `(skidmaxx)`
 * Redirect/clone this repo to `~/.local/share`
 * After cloning redirect to `f.fetch/configs` 
 * To use run this command on your terminal `fastfetch --config main.jsonc` 
-* Change the file name in the command to use other configs
+* Change the file name in the command to use other configs e.g null.jsonc
 
 Only 2 configs are available planning to add more in the future
 
