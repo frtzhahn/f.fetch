@@ -1,4 +1,4 @@
-
+ 
 #  F.fetch
 My personal configs to rice fastfecth `(skidmaxx)`
 
