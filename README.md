@@ -1,6 +1,6 @@
 
 #  F.fetch
-My personal configs to rice fastfecth `(skidmaxx)`
+My personal configs to rice fastfetch `(skidmaxx)`
 
     To install and Use it
 * Redirect/clone this repo to `~/.local/share`
